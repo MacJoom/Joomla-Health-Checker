@@ -35,7 +35,7 @@ update a single component.
 | `pkg_phpscanner-1.0.0.zip` | **Yes** — the PHP Scanner (all three plugins). |
 | `mod_healthcheck-6.2.0.zip` | Optional — just the dashboard module. |
 | `plg_system_healthcheckmenu-6.2.0.zip` | Optional — just the sidebar‑menu plugin. |
-| `plg_healthcheck_phpscanner-1.0.1.zip` | Optional — just the scanner findings plugin. |
+| `plg_healthcheck_phpscanner-1.0.9.zip` | Optional — just the scanner findings plugin. |
 | `plg_system_phpscannerbaseline-1.0.0.zip` | Optional — just the baseline system plugin. |
 | `plg_task_phpscannermalware-1.0.1.zip` | Optional — just the scheduled‑scan task plugin. |
 | `plg_healthcheck_usermaintenance-6.2.0.zip` | Optional — a standalone check plugin surfacing user‑account hygiene (see below). |
