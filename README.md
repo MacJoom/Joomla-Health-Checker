@@ -48,7 +48,7 @@ backend, go to **System → Install → Extensions → Upload Package File** and
 
 Install the two bundles in this order:
 
-### 1. Health Check UI — `pkg_healthcheck-6.2.0.zip`
+### 1. Health Check UI — `pkg_healthcheck-6.2.1.zip`
 
 Installs the dashboard module and the menu plugin. On install it **configures itself**:
 
