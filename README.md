@@ -7,7 +7,7 @@ The two parts are independent and shipped as separate installable packages:
 
 | Package | Version | Contains | What it does |
 |---|---|---|---|
-| **`pkg_healthcheck`** | 6.2.0 | `mod_healthcheck` (admin module) + `plg_system_healthcheckmenu` (system plugin) | The dashboard UI and its **Health Check** sidebar menu entry. Self‑contained — works on stock Joomla 6. |
+| **`pkg_healthcheck`** | 6.2.1 | `mod_healthcheck` (admin module) + `plg_system_healthcheckmenu` (system plugin) | The dashboard UI and its **Health Check** sidebar menu entry. Self‑contained — works on stock Joomla 6. |
 | **`pkg_phpscanner`** | 1.0.0 | `plg_healthcheck_phpscanner` · `plg_system_phpscannerbaseline` · `plg_task_phpscannermalware` | Feeds the dashboard with security findings and runs the heavy full‑site scans on a schedule. |
 
 The dashboard on its own is empty; the PHP Scanner (or any other `healthcheck`‑group plugin) provides
